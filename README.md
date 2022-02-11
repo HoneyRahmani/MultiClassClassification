@@ -25,7 +25,7 @@ For more information about STL-10  https:/ / cs. stanford.edu/ ~acoates/ stl10 .
 * Pytorch
 * Model is ResNet18 (Both of randomly initialized weights or the pre-trained weights)
 * Combination of  LogSoftmax  and NLLLoss
-* Adam optimizer.
+* Adam optimizer
 
 ## Installation
     •	conda install pytorch torchvision cudatoolkit=coda version -c pytorch
