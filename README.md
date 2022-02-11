@@ -16,9 +16,9 @@ This project creates an algorithm detect 10 categories of objects in the STL-10 
 
 ## About Database
 
-Dataset is STL-10 dataset from the PyTorch torchvision package.
+Dataset is STL-10 from the PyTorch torchvision package.
 
-For more information about  https:/ / cs. stanford.edu/ ~acoates/ stl10 .
+For more information about STL-10  https:/ / cs. stanford.edu/ ~acoates/ stl10 .
 
 
 ## Built with
